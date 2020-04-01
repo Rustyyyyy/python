@@ -1,0 +1,1 @@
+print("list of days in a week")

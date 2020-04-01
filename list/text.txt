@@ -5,3 +5,5 @@ You saw here that you can create a list with square brackets. Lists can contain 
 
 
 You saw that we can pull more than one value from a list at a time by using slicing. When using slicing, it is important to remember that the lower index is inclusive and the upper index is exclusive.
+
+list a mutable data type
